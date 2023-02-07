@@ -67,5 +67,5 @@
 
 |  May 9   | Template Method | Visitor |
 |---------:|----------:|----------:|
-|          | Preston | Available |
+|          | Preston | te122ddst |
 |          | Manohar | Available |
