@@ -67,5 +67,5 @@
 
 |  May 9   | Template Method | Visitor |
 |---------:|----------:|----------:|
-|          | Preston | test |
+|          | Preston | taste |
 |          | Manohar | Available |
